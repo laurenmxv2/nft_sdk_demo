@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@infura/sdk": "^2.3.10"
+  }
+}
